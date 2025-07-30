@@ -7,7 +7,7 @@ It covers:
 - ✅ PyTorch DataLoaders
 - ✅ Fine-tuning with `transformers` & `torch`
 - ✅ Training loss tracking & visualization
-- ✅ Model evaluation with detailed metrics (Accuracy, ROC-AUC, PR-AUC, MCC, Cohen’s Kappa, Confusion Matrix)
+- ✅ Model evaluation with detailed metrics (Accuracy, ROC-AUC, PR-AUC, MCC, Confusion Matrix)
 
 ---
 
